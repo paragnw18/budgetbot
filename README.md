@@ -1,2 +1,2 @@
 # budgetbot
-Budget bot 2017
+Budget bot 2017 - Finindians
